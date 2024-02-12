@@ -32,7 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabgh)](https://github.com/gtpoint/gtpoint)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gtpoint&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hamzabgh&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🌐 Social links
 [![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gtpoint)
