@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on: *software problems*
 
 ### 💫 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gtpoint&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hamzabgh&theme=dark&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
 
 ### 📊 Github stats
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=hamzabgh&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
