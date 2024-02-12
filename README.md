@@ -35,7 +35,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=hamzabgh&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🌐 Social links
-[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gtpoint)
+[![Github](https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabgh)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-boughanim/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](hamzaboughanim06@gmail.com)
 
