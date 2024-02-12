@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/elaouzari" target="blank"><img src="https://img.shields.io/twitter/follow/elaouzari?logo=twitter&style=for-the-badge" alt="elaouzari" /></a> </p>
 
-- 📫 How to reach me: *elaouzariofficiel12@gmail.com*
+- 📫 How to reach me: *hamzaboughanim06@gmail.com*
 - 💬 Ask me about: *web development*
 - 🌱 I’m currently learning: *Java language*
 - ⚡ Fun fact: *I am Funny*
