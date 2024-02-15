@@ -1,5 +1,5 @@
 
-## Hi there 👋, my name is Hamza Boughanim
+## Hi there 👋, my name is Hamza Boughanim 
 
 *I'm highly passionate about software engineering and determined to leverage my skills and experience to create innovative software solutions.*
 
