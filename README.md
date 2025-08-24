@@ -1,408 +1,183 @@
-# 🌟 Hamza Boughanim
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=AI%20Engineer%20%26%20Innovator&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligent%20Systems%20%7C%20Computer%20Vision%20%7C%20NLP%20Expert&descAlignY=60&descSize=20"/>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🤖+Transforming+Ideas+into+AI+Reality;🔬+Multi-Modal+AI+%26+Computer+Vision;🚀+From+Research+to+Production+Systems;💡+LLM+%7C+RAG+%7C+MLOps+Expert)](https://github.com/hamzabgh)
+https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%A4%96+Artificial+Intelligence+Engineer;%F0%9F%94%AC+Computer+Vision+%2526+NLP+Specialist;%F0%9F%9A%80+Building+Intelligent+Systems;%F0%9F%92%A1+LLM+%2526+RAG+Expert
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Specialization-Computer%20Vision%20%26%20NLP-success?style=for-the-badge&logo=eye&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Morocco-red?style=for-the-badge&logo=location&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=fadeIn"/></div>
+🎯 AI Research Focus
+<table> <tr> <td width="50%">
+🔬 Current Research
+python
+class AIResearcher:
+    def __init__(self):
+        self.current_focus = [
+            "Multi-Modal AI (M3AE)",
+            "Document Intelligence",
+            "Computer Vision + NLP",
+            "RAG Systems"
+        ]
+        self.expertise = {
+            "llm": ["GPT", "Mistral", "T5", "Phi"],
+            "vision": ["YOLO", "OpenCV", "ViT"],
+            "nlp": ["RoBERTa", "Transformers", "NER"],
+            "deployment": ["Ollama", "ChromaDB", "MinIO"]
+        }
+</td> <td width="50%">
+📊 Impact Metrics
+🎯 OCR Accuracy: >98% (Tifinagh Script)
 
-</div>
+📈 Trading Bot ROI: 105.41% (Simulated)
 
----
+🏢 Enterprise Systems: Insurance Automation
 
-## 🎯 **Who Am I?**
+🤖 AI Models Deployed: 7+ Production Systems
 
-<table>
-<tr>
-<td width="60%">
+</td> </tr> </table>
+🛠️ Tech Arsenal by Domain
+<details> <summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+Deep Learning & Neural Networks
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFCA28?style=for-the-badge&logoColor=black
+https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white
 
-### 🚀 **AI Engineer & Full-Stack Developer**
+LLMs & Language Models
+https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white
 
-I'm passionate about pushing the boundaries of artificial intelligence, specializing in **multi-modal AI systems**, **computer vision**, and **natural language processing**. Currently working on **enterprise insurance automation** while researching cutting-edge **medical AI applications**.
+Vector Databases & Search
+https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white
 
-**🎯 Mission**: *Bridge the gap between AI research and real-world applications*
+</details><details> <summary><b>💻 Full-Stack Development</b></summary>
+Backend Frameworks
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/Phalcon-76D04B?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 
-### 🏆 **Quick Wins**
-- ⚡ **>98% OCR accuracy** for Tifinagh script recognition
-- 📈 **105.41% ROI** achieved with ML trading algorithms  
-- 🏢 **Production systems** deployed at MAMDA-MCMA Insurance
-- 🔬 **Multi-modal AI research** in medical applications
+Frontend & UI
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
-</td>
-<td width="40%">
+Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzabgh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&title_color=667eea&icon_color=f093fb&text_color=ffffff&bg_color=0D1117"/>
-</div>
-
-### 📧 **Let's Connect!**
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-boughanim)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzaboughanim06@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzabgh)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ **Tech Stack & Expertise**
-
-<div align="center">
-
-### 🤖 **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFCA28?style=for-the-badge&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-
-### 💻 **Full-Stack Development**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Phalcon](https://img.shields.io/badge/Phalcon-76D04B?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ **Databases & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **Multi-Modal Medical AI (M3AE)**
-<img src="https://img.shields.io/badge/Status-Research-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Impact-Medical%20AI-green?style=flat-square"/>
-
-Advanced multi-modal masked autoencoder combining **Vision Transformers** and **RoBERTa** with co-attention mechanisms for medical task automation.
-
-**🔧 Tech**: `ViT` `RoBERTa` `Co-attention` `Medical Vision`
-
----
-
-### 📄 **Document Intelligence System**
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square"/> <img src="https://img.shields.io/badge/Client-Insurance-orange?style=flat-square"/>
-
-Enterprise-grade system for automated document processing using hybrid OCR and NER with semantic search capabilities.
-
-**🔧 Tech**: `Tesseract` `EasyOCR` `Phi Model` `ChromaDB` `MinIO`
-
-</td>
-<td width="50%">
-
-### 🔍 **TifinAI OCR System**
-<img src="https://img.shields.io/badge/Accuracy-98%25+-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Language-Tifinagh-red?style=flat-square"/>
-
-Optical Character Recognition system for Tifinagh script achieving >98% accuracy using CNN and PaddleOCR with advanced image preprocessing.
-
-**🔧 Tech**: `CNN` `PaddleOCR` `OpenCV` `Flask`
-
----
-
-### 💬 **RAG-Powered Chatbot**
-<img src="https://img.shields.io/badge/Type-Conversational%20AI-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Architecture-RAG-blue?style=flat-square"/>
-
-Intelligent chatbot with document-aware conversations using Retrieval Augmented Generation and HuggingFace LLMs.
-
-**🔧 Tech**: `HuggingFace` `RAG` `ChromaDB` `React` `LangChain`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<details>
-<summary><b>🎯 More Amazing Projects</b></summary>
-
-### 📈 **Cryptocurrency Trading Bot**
-- **Achievement**: 105.41% simulated ROI using ARIMA time series forecasting
-- **Tech Stack**: Python, ARIMA, Financial Data Analysis
-- **Focus**: Algorithmic trading and machine learning in finance
-
-### 🚁 **Autonomous Delivery Drone (ROS2)**
-- **Features**: Flight control, object detection, obstacle avoidance
-- **Tech Stack**: ROS2 Humble, Gazebo 11, YOLO, OpenCV
-- **Innovation**: Real-time AI-powered navigation system
-
-### 🏦 **Banking Management System**
-- **Scope**: Complete transaction and account management
-- **Tech Stack**: Python, MySQL
-- **Features**: User management, balance tracking, transaction history
-
-### 🛒 **E-commerce Platform**
-- **Framework**: Laravel with Livewire for modern reactivity
-- **Focus**: Speed, security, and user experience
-- **Tech Stack**: Laravel 8, Livewire 2.x, Bootstrap 5, MySQL
+</details><details> <summary><b>🚀 DevOps & Cloud</b></summary>
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white
 
 </details>
-
----
-
-## 📊 **GitHub Analytics**
-
+🚀 Featured AI Projects
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamzabgh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&title_color=667eea&icon_color=f093fb"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabgh&layout=compact&theme=radical&border_radius=10&title_color=667eea"/>
+Project	Description	Tech Stack	Impact
+🤖 M3AE Medical Vision	Multi-modal autoencoder for medical tasks	ViT + RoBERTa + Co-attention	Research Innovation
+📄 Document Intelligence	OCR + NER for insurance automation	Tesseract + EasyOCR + Phi	Production System
+🔍 TifinAI OCR	Tifinagh script recognition	CNN + PaddleOCR	>98% Accuracy
+💬 RAG Chatbot	Document-aware conversational AI	HuggingFace + ChromaDB	Smart Q&A System
+📈 Crypto Trading Bot	ML-powered trading algorithm	ARIMA + Time Series	105.41% ROI
+🚁 ROS2 Drone Sim	Autonomous delivery system	ROS2 + Gazebo + YOLO	Computer Vision
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hamzabgh&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 **Professional Journey**
-
-<div align="center">
-
-### 💼 **Current Role: Software Engineer @ MAMDA-MCMA**
-*Leading insurance automation initiatives with AI-powered solutions*
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### 🏢 **Enterprise Impact**
-- Automated RENP system for insurance recovery
-- Developed formal notice generation using JasperReports
-- Implemented RBAC/PBAC for 11+ user profiles
-- Built comprehensive GED system with MinIO
-
-</td>
-<td width="33%">
-
-### 🔧 **Technical Leadership**
-- Optimized SQL Server stored procedures
-- Resolved critical bugs in back-office systems
-- Integrated OTP authentication flows
-- Developed secure document management systems
-
-</td>
-<td width="34%">
-
-### 📈 **Innovation Focus**
-- Full-stack development with PHP Phalcon
-- Database performance optimization
-- Security implementation (OWASP standards)
-- Agile development methodology
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 **Education & Learning**
-
-<div align="center">
-
-| 🎓 **Degree** | 🏫 **Institution** | 📅 **Period** | 🎯 **Focus** |
-|:---:|:---:|:---:|:---:|
-| **Master's in AI & VR** | Ibn Tofail University | 2023-2025 | Advanced AI Research |
-| **Bachelor's in CS-Math** | Ibn Tofail University | 2019-2023 | Computer Science Foundation |
-| **Baccalaureate** | Mohamed Ezzarktouni HS | 2018 | Physical Sciences |
-
-</div>
-
----
-
-## 🌟 **Skills Matrix**
-
-<div align="center">
-
-```python
-class HamzaSkills:
-    def __init__(self):
-        self.ai_ml = {
-            "deep_learning": ["CNN", "RNN", "LSTM", "Transformers"],
-            "computer_vision": ["OpenCV", "YOLO", "PaddleOCR", "ViT"],
-            "nlp": ["RoBERTa", "NER", "Masked Autoencoders"],
-            "llms": ["GPT", "Mistral", "T5", "Phi", "RAG", "LangChain"]
-        }
-        
-        self.development = {
-            "languages": ["Python", "PHP", "JavaScript", "Java", "C++"],
-            "frameworks": ["Laravel", "Flask", "React", "Phalcon"],
-            "databases": ["MySQL", "SQL Server", "MongoDB"],
-            "cloud_devops": ["Docker", "AWS", "Kubernetes", "MinIO"]
-        }
-        
-        self.expertise_level = {
-            "AI/ML Engineering": "Expert ████████████████████░",     # 95%
-            "Computer Vision": "Expert ███████████████████░░",       # 90%
-            "Full-Stack Dev": "Advanced ██████████████████░░░",      # 85%
-            "Cloud & DevOps": "Intermediate ███████████████░░░░░"    # 70%
-        }
-```
-
-</div>
-
----
-
-## 🚀 **What's Next?**
-
-<div align="center">
-
-### 🔮 **Currently Working On**
-<p>
-<img src="https://img.shields.io/badge/Research-Multi--Modal%20AI-blueviolet?style=for-the-badge&logo=microscope"/>
-<img src="https://img.shields.io/badge/Production-Insurance%20Automation-success?style=for-the-badge&logo=shield"/>
-<img src="https://img.shields.io/badge/Learning-MLOps%20%26%20Deployment-orange?style=for-the-badge&logo=kubernetes"/>
-</p>
-
-### 🎯 **2024 Goals**
-- 🔬 **Publish AI research** in computer vision and NLP
-- 🚀 **Open-source contributions** to ML libraries
-- 🏢 **Scale enterprise AI solutions** across industries
-- 🌍 **International collaboration** on AI projects
-
-</div>
-
----
-
-## 💡 **Fun Facts & Interests**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 **Beyond Code**
-- 🧠 **AI Philosophy**: Bridging research and real-world impact
-- 🌍 **Languages**: Arabic (Native), French (Fluent), English (Professional)
-- 🎯 **Passion**: Making AI accessible and practical for businesses
-- 🚀 **Vision**: Contributing to the future of intelligent systems
-
-</td>
-<td width="50%">
-
-### ⚡ **Quick Facts**
-```json
-{
-  "coffee_consumed": "∞ cups ☕",
-  "models_trained": "50+ 🤖",
-  "bugs_fixed": "Countless 🐛",
-  "ideas_per_minute": "3.14 💡",
-  "favorite_algorithm": "Transformers 🤗",
-  "current_obsession": "Multi-modal AI 🔬"
+📊 GitHub Analytics Dashboard
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamzabgh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Hamza's%20GitHub%20Stats"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabgh&layout=compact&theme=tokyonight&custom_title=Most%20Used%20Languages"/> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzabgh&theme=tokyonight&hide_border=true" /> </div>
+🎨 Skills Visualization
+python
+skills_matrix = {
+    "AI/ML": {
+        "Deep Learning": "████████████████████░",  # 95%
+        "Computer Vision": "███████████████████░░",  # 90%
+        "NLP": "██████████████████░░░",              # 85%
+        "LLMs": "█████████████████░░░░"               # 80%
+    },
+    "Development": {
+        "Python": "████████████████████░",            # 95%
+        "PHP": "██████████████████░░░",               # 85%
+        "Full-Stack": "█████████████████░░░░",        # 80%
+        "JavaScript": "████████████████░░░░░"         # 75%
+    },
+    "DevOps": {
+        "Docker": "███████████████░░░░░",             # 70%
+        "Cloud (AWS)": "██████████████░░░░░░",        # 65%
+        "CI/CD": "█████████████░░░░░░░"               # 60%
+    }
 }
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 **Let's Build Something Amazing Together!**
-
+🏆 Professional Achievements
 <div align="center">
+🎖️ Certifications & Recognition
+https://img.shields.io/badge/AI_Engineer-Master's_Degree-success?style=for-the-badge
+https://img.shields.io/badge/Insurance_Automation-MAMDA_MCMA-blue?style=for-the-badge
+https://img.shields.io/badge/Research-Medical_AI-purple?style=for-the-badge
 
-### 🎯 **I'm interested in collaborating on:**
+📈 Impact Metrics
+🏢 Enterprise Systems: Automated insurance processes at MAMDA-MCMA
 
-<table>
-<tr>
-<td align="center" width="25%">
+🎯 AI Accuracy: Achieved >98% OCR accuracy for Tifinagh script
 
-### 🔬 **AI Research**
-Multi-modal systems  
-Computer vision  
-NLP innovations
+💰 Financial AI: Developed profitable trading algorithms
 
-</td>
-<td align="center" width="25%">
-
-### 🏢 **Enterprise AI**
-Document intelligence  
-Process automation  
-Custom ML solutions
-
-</td>
-<td align="center" width="25%">
-
-### 🌍 **Open Source**
-ML libraries  
-AI frameworks  
-Educational tools
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 **Startups**
-AI-powered products  
-Technical consulting  
-System architecture
-
-</td>
-</tr>
-</table>
-
----
-
-### 📬 **Reach Out - I'd Love to Connect!**
-
-<p align="center">
-  <a href="mailto:hamzaboughanim06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hamzaboughanim06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/hamza-boughanim">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hamzabgh">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamzabgh&label=Profile%20views&color=667eea&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/hamzabgh?label=Followers&style=for-the-badge&color=667eea"/>
-  <img src="https://img.shields.io/github/stars/hamzabgh?label=Stars&style=for-the-badge&color=667eea"/>
-</p>
+🔬 Research: Contributing to medical AI with multi-modal approaches
 
 </div>
+🌟 Current Focus & Interests
+<img align="right" alt="AI Animation" width="300" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
+🔬 Research Interests
+Multi-Modal AI: Combining vision and language understanding
 
----
+Document Intelligence: Automated information extraction
 
+Medical AI: Computer vision for healthcare applications
+
+LLM Optimization: Fine-tuning and deployment strategies
+
+🚀 Next Goals
+Contributing to open-source AI projects
+
+Publishing research in computer vision
+
+Building enterprise-grade AI solutions
+
+Exploring edge AI deployment
+
+📝 Latest Blog Posts & Articles
+<!-- BLOG-POST-LIST:START -->
+🤖 Building Multi-Modal AI Systems: A Practical Guide
+
+📄 Document Intelligence with OCR and NER: From Research to Production
+
+🔍 RAG Systems: Enhancing LLMs with Document Knowledge
+
+🚁 ROS2 and Computer Vision: Autonomous Drone Development
+
+<!-- BLOG-POST-LIST:END -->
+🤝 Let's Collaborate!
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20the%20future%20with%20AI%20together&descSize=16&descAlignY=90"/>
+🎯 I'm interested in:
+AI Research Projects - Multi-modal systems, computer vision
+
+Enterprise AI Solutions - Document processing, automation
+
+Open Source Contributions - ML libraries, AI tools
+
+Startup Collaborations - AI-powered products
+
+📬 Get in Touch
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+📍 Location: Morocco | 🌐 Open to: Remote & Hybrid opportunities
+
 </div>
-
----
-
 <div align="center">
+⚡ Fun Fact
+I've automated insurance processes during the day and trained neural networks at night. Currently bridging the gap between academic research and industry applications! 🚀
 
-*"The best way to predict the future is to invent it, especially when it involves AI."* 
-
-**~ Hamza Boughanim, 2024**
+https://komarev.com/ghpvc/?username=hamzabgh&label=Profile%2520views&color=0e75b6&style=for-the-badge
+https://img.shields.io/github/followers/hamzabgh?label=Follow&style=for-the-badge
 
 </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20the%20Future%20with%20AI&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/> </div>
