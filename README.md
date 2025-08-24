@@ -530,7 +530,7 @@ Rapid prototyping
   "ideas_per_day": "42 💡",
   "favorite_algorithm": "Transformers 🤗",
   "dream_project": "AGI that helps humanity 🌟",
-  "languages_spoken": ["Arabic", "French", "English", "Python"],
+  "languages_spoken": ["Arabic", "French", "English"],
   "life_motto": "Code.Train.Deploy.Repeat()"
 }
 ```
