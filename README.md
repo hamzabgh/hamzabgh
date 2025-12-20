@@ -22,47 +22,6 @@
 
 > *Passionate AI Engineer bridging the gap between academic research and real-world applications. I automate insurance processes by day and train neural networks by night! 🚀*
 
----
-
-## 🎯 Current Research & Focus Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Active Research
-```python
-class AIResearcher:
-    def __init__(self):
-        self.current_projects = [
-            "Multi-Modal AI (M3AE)",
-            "Document Intelligence",
-            "Insurance Automation",
-            "Medical Vision Systems"
-        ]
-        self.expertise = {
-            "llm": ["GPT", "Mistral", "T5", "Phi"],
-            "vision": ["YOLO", "OpenCV", "ViT"],
-            "nlp": ["RoBERTa", "Transformers", "NER"],
-            "deployment": ["Ollama", "ChromaDB", "MinIO"]
-        }
-```
-
-</td>
-<td width="50%">
-
-### 📊 Key Achievements
-- 🎯 **OCR Accuracy**: >98% (Tifinagh Script)
-- 📈 **Trading Bot ROI**: 105.41% (Simulated)
-- 🏢 **Enterprise Impact**: RENP System Automation
-- 🤖 **AI Models Deployed**: 7+ Production Systems
-- 🔒 **Security**: RBAC/PBAC for 11+ User Profiles
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Technology Stack
 
@@ -142,48 +101,7 @@ class AIResearcher:
 
 </details>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|---------|
-| 🏥 **M3AE Medical Vision** | Multi-modal autoencoder for medical imaging tasks | ViT + RoBERTa + Co-attention | Medical AI Research |
-| 📄 **Insurance Document AI** | OCR + NER automation for MAMDA-MCMA | Tesseract + EasyOCR + Phi + Ollama | Production System |
-| 🔍 **TifinAI OCR** | Tifinagh script recognition system | CNN + PaddleOCR + OpenCV | >98% Accuracy |
-| 💬 **RAG Chatbot** | Document-aware conversational AI | HuggingFace + ChromaDB + LangChain | Smart Q&A System |
-| 📈 **Crypto Trading Bot** | ML-powered algorithmic trading | ARIMA + Time Series Analysis | 105.41% ROI |
-| 🚁 **ROS2 Drone Delivery** | Autonomous delivery simulation | ROS2 + Gazebo + YOLO + OpenCV | Computer Vision |
-| 🛒 **E-commerce Platform** | Full-stack online store | Laravel + Livewire + MySQL | Modern Design |
-| 🏦 **Banking System** | Transaction management app | Python + MySQL | Financial Operations |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Current Role: Software Engineer @ MAMDA-MCMA
-**September 2024 – Present | Rabat, Morocco**
-
-- 🔧 **RENP System Automation**: Contributed to automating Recovery of Unpaid Installments system
-- 📊 **Report Generation**: Developed formal notice generation (MED) using JasperReports
-- 🔍 **System Optimization**: Resolved bugs in back-office dashboard, devis module, and OTP authentication
-- ⚡ **Performance Enhancement**: Optimized SQL Server stored procedures for better reliability
-- 🛠️ **Tech Stack**: PHP Phalcon, SQL Server, JavaScript, HTML, CSS
-
-### 💻 Full Stack Engineer @ ASSURE SOLUTIONS  
-**August 2023 – Present | Kenitra, Morocco**
-
-- 👥 **User Management**: Developed modules for client, victim, and incident management
-- 🔐 **Access Control**: Implemented RBAC and PBAC for 11+ user profiles
-- 📱 **Dashboard Development**: Built comprehensive back-office for data entry and monitoring
-- 🔑 **Security Integration**: Integrated OTP authentication and authorization flows
-- 📁 **Document Management**: Developed GED system using MinIO for secure document storage
-
----
 
 ## 📊 GitHub Analytics
 
